@@ -10,7 +10,9 @@ div {text-align: center;}
 
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
 <h1 style="color:blue;"> Yo Yo, what up!!!!!  </h1>
+<h1 style="color:blue;"> This is your friend here  </h1>
 </body>
 </html>
+
 
 
