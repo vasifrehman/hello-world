@@ -12,6 +12,7 @@ div {text-align: center;}
 <h1 style="color:blue;"> Yo Yo, what up!!!!!  </h1>
 <h1 style="color:blue;"> This is your friend here  </h1>
 <h1 style="color:red;"> ansible final build, auto trigger  </h1>
+<h1 style="color:green;"> **** GO Green **** </h1>
 </body>
 </html>
 
